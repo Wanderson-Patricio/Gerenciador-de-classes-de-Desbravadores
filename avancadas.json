@@ -1,0 +1,38 @@
+{
+  "nome": "CLASSES AVANCADAS",
+  "classes": [
+    {
+      "nome": "AMIGO DA NATUREZA",
+      "qtd": 9,
+      "feitas": [1, 2, 3, 4, 5, 6, 7, 8, 9],
+      "pctg": 100.0
+    },
+    {
+      "nome": "COMPANHEIRO DE EXCURSIONISTA",
+      "qtd": 12,
+      "feitas": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "pctg": 100.0
+    },
+    {
+      "nome": "PESQUISADOR DE CAMPO E BOSQUE",
+      "qtd": 11,
+      "feitas": [1, 2, 3, 5, 6, 7, 9, 10],
+      "pctg": 72.73
+    },
+    {
+      "nome": "PIONEIRO DE NOVAS FRONTEIRAS",
+      "qtd": 10,
+      "feitas": [3, 5, 6, 7],
+      "pctg": 40.0
+    },
+    {
+      "nome": "EXCURSIONISTA NA MATA",
+      "qtd": 11,
+      "feitas": [2, 4, 6],
+      "pctg": 27.27
+    },
+    { "nome": "GUIA DE EXPLORACAO", "qtd": 10, "feitas": [3, 6], "pctg": 20.0 }
+  ],
+  "total": 63,
+  "pctg": 60.0
+}
