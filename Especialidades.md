@@ -52,6 +52,7 @@
    - Répteis
    - Anfíbios
    - Arbustos
+   - Ecologia
 
 9. Habilidades Domésticas
     - Comidas Típicas
