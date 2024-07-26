@@ -18,6 +18,7 @@
    - Arte de Contar Histórias Cristãs
    - Cidadania Cristã
    - Mensageira de Deus
+   - Mordomia
 
 5. Atividades Profissionais
    - Computação I - Básico
