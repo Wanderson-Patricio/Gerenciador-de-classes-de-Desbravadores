@@ -26,6 +26,7 @@
    - Acampamento em Baixas Temperaturas
    - Acampamento I
    - Acampamento II
+   - Acampamento III
    - Acampamento IV
    - Excursionismo Pedestre com Mochila
    - Excursionismo Pedestre com Mochila Avançado
