@@ -38,6 +38,7 @@
    - Fogueiras e Cozinha ao Ar Livre
    - Liderança Campestre
    - Ordem Unida
+   - Pioneirias
 
 7. Ciência e Saúde
    - Higiene Oral
