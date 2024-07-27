@@ -19,6 +19,7 @@
    - Cidadania Cristã
    - Mensageira de Deus
    - Mordomia
+   - Aventuras com Cristo
 
 5. Atividades Profissionais
    - Computação I - Básico
