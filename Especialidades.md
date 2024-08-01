@@ -6,6 +6,7 @@
    - Violão Avançado
    - Telhados
    - E.V.A.
+   - Genealogia
 
 3. Atividades Agrícolas
 
