@@ -1,6 +1,6 @@
-1. ADRA
+1. ADRA (0)
 
-2. Artes e Habilidades Manuais
+2. Artes e Habilidades Manuais (7)
    - Cultura Indígena
    - Violão
    - Violão Avançado
@@ -9,9 +9,9 @@
    - Genealogia
    - Fotografia Digital
 
-3. Atividades Agrícolas
+3. Atividades Agrícolas (0)
 
-4. Atividades Missionárias e Comunitárias
+4. Atividades Missionárias e Comunitárias (10)
    - Evangelismo Web
    - Espírito de Profecia
    - Temperança
@@ -23,10 +23,10 @@
    - Mordomia
    - Aventuras com Cristo
 
-5. Atividades Profissionais
+5. Atividades Profissionais (1)
    - Computação I - Básico
   
-6. Atividades Recreativas
+6. Atividades Recreativas (15)
    - Acampamento em Baixas Temperaturas
    - Acampamento I
    - Acampamento II
@@ -43,7 +43,7 @@
    - Ordem Unida
    - Pioneirias
 
-7. Ciência e Saúde
+7. Ciência e Saúde (7)
    - Higiene Oral
    - Resgate Básico
    - Alerta Vermelho
@@ -52,7 +52,7 @@
    - Primeiros Socorros - Básico
    - Primeiros Socorros - Intermediário
 
-8. Estudo da Natureza
+8. Estudo da Natureza (10)
    - Astronomia
    - Animais Noturnos
    - Cães
@@ -64,7 +64,7 @@
    - Arbustos
    - Ecologia
 
-9. Habilidades Domésticas
+9. Habilidades Domésticas (2)
     - Comidas Típicas
     - Orçamento Familiar
 
