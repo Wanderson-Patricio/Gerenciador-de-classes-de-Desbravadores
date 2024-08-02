@@ -49,7 +49,8 @@
    - Alerta Vermelho
    - Bioquímica
    - Física
-   - Primeiros Socorros - Básico 
+   - Primeiros Socorros - Básico
+   - Primeiros Socorros - Intermediário
 
 8. Estudo da Natureza
    - Astronomia
