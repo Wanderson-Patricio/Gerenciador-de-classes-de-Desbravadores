@@ -7,6 +7,7 @@
    - Telhados
    - E.V.A.
    - Genealogia
+   - Fotografia Digital
 
 3. Atividades Agrícolas
 
